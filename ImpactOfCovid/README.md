@@ -17,5 +17,5 @@ In this study, there were multiple linear regression models to examine COVID-19 
 
 Analysis of the linear regression models in Figures 1.1 and 1.2 indicated that there was a larger ‘gap’, or disparity, between whites and minorities when it came to COVID-19 cases than it did for COVID-19 related deaths. The red line represents the mean population of the white community, and the black line represents the mean population of the selected minorities— black/African American, Hispanic/Latino, and Asian— combined.
 
-Figure 1.1 - Regression Comparison for Percent of Population on Percent of Cases
 
+### View the pdf or word document to read the rest. Thank you for reading!
